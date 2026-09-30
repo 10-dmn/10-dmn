@@ -14,12 +14,12 @@
 
   <div align="left">
 
-- 🙋‍♂️ **Name:** **Nguyen Duc Manh**
-- 🎂 **DOB:** 04/09/2005 *(From Hung Yen, Vietnam)*
+- 🙋‍♂️ **Name:** **Duc Manh**
+- 🎂 **DOB:** 2005 *(From Hung Yen, Vietnam)*
 - 🎓 **Education:** Computer Science @ **Hanoi University of Civil Engineering (HUCE)**
 - 💼 **Role:** Intern **Data Engineer & AI Engineer**
-- 📧 **Gmail:** `nguyenducmanh.ducmanhjr@gmail.com`
-- 🐙 **GitHub:** [ducmanh-jr](https://github.com/ducmanh-jr)
+- 📧 **Gmail:** `ducmanhgo0@gmail.com`
+- 🐙 **GitHub:** [ducmanh-jr](https://github.com/10-dmn)
 
 <br>
 
