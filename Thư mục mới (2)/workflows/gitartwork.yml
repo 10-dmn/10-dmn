@@ -1,0 +1,28 @@
+name: Make gitartwork SVG
+
+on: 
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:  
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: 10-dmn
+          text: 10-DMN!
+      - name: Commit & Push
+        run: |
+          git config user.name "10-dmn"
+          git config user.email "10-dmn@users.noreply.github.com"
+          git add -A .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update gitartwork SVG"
+          git push
