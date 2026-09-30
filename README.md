@@ -16,7 +16,7 @@
 
 - 🙋‍♂️ **Name:** **Duc Manh**
 - 🎂 **DOB:** 2005 *(From Hung Yen, Vietnam)*
-- 🎓 **Education:** Computer Science @ **Hanoi University of Civil Engineering (HUCE)**
+- 🎓 **Education:** Computer Science @ 
 - 💼 **Role:** Intern **Data Engineer & AI Engineer**
 - 📧 **Gmail:** `ducmanhgo0@gmail.com`
 - 🐙 **GitHub:** [ducmanh-jr](https://github.com/10-dmn)
